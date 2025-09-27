@@ -1,0 +1,32 @@
+# API Keys and Environment
+.env
+*.key
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Output files
+qa_dataset*.csv
+qa_dataset*.json
+qa_dataset*.xlsx
+cleaning_report.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Context files (may contain sensitive data)
+context_files/
