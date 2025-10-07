@@ -78,13 +78,6 @@ This tool takes business documents (cost guides, database schemas, process docum
    - `qa_dataset.csv` - For fine-tuning (prompt, completion columns)
    - `qa_dataset.json` - For analysis and review
 
-## Performance
-
-- **Small datasets (≤25 questions)**: 1-2 minutes
-- **Medium datasets (100 questions)**: 3-4 minutes  
-- **Large datasets (500+ questions)**: 15-20 minutes
-- **Cost**: ~$2-5 per 100 questions using GPT-5
-
 ## Troubleshooting
 
 ### Common Issues
